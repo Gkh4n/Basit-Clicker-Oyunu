@@ -1,0 +1,11 @@
+C:\Users\Gokhany\Desktop\Asp .NET Core MVC\Clicker Oyunu\Clicker Oyunu\bin\Debug\Clicker Oyunu.exe.config
+C:\Users\Gokhany\Desktop\Asp .NET Core MVC\Clicker Oyunu\Clicker Oyunu\bin\Debug\Clicker Oyunu.exe
+C:\Users\Gokhany\Desktop\Asp .NET Core MVC\Clicker Oyunu\Clicker Oyunu\bin\Debug\Clicker Oyunu.pdb
+C:\Users\Gokhany\Desktop\Asp .NET Core MVC\Clicker Oyunu\Clicker Oyunu\obj\Debug\Clicker Oyunu.csproj.AssemblyReference.cache
+C:\Users\Gokhany\Desktop\Asp .NET Core MVC\Clicker Oyunu\Clicker Oyunu\obj\Debug\Clicker Oyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gokhany\Desktop\Asp .NET Core MVC\Clicker Oyunu\Clicker Oyunu\obj\Debug\Clicker_Oyunu.Form1.resources
+C:\Users\Gokhany\Desktop\Asp .NET Core MVC\Clicker Oyunu\Clicker Oyunu\obj\Debug\Clicker_Oyunu.Properties.Resources.resources
+C:\Users\Gokhany\Desktop\Asp .NET Core MVC\Clicker Oyunu\Clicker Oyunu\obj\Debug\Clicker Oyunu.csproj.GenerateResource.cache
+C:\Users\Gokhany\Desktop\Asp .NET Core MVC\Clicker Oyunu\Clicker Oyunu\obj\Debug\Clicker Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\Gokhany\Desktop\Asp .NET Core MVC\Clicker Oyunu\Clicker Oyunu\obj\Debug\Clicker Oyunu.exe
+C:\Users\Gokhany\Desktop\Asp .NET Core MVC\Clicker Oyunu\Clicker Oyunu\obj\Debug\Clicker Oyunu.pdb
