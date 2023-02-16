@@ -94,8 +94,8 @@ namespace Clicker_Oyunu
                 hit = hitDegeri;
                 altin = altin - itemDegeri;
                 lblAltinSayisi.Text = altin.ToString();
-                pictureBox.BackColor = Color.Green; // item alındığında item arka planı yeşil olacak
-                pictureBox.Enabled = false; // item ikinci kez alınmayacak 
+                pictureBox.BackColor = Color.Green; // item alındığında item arka planı yeşil olacak.
+                pictureBox.Enabled = false; // item ikinci kez alınmayacak. 
             }
         }
 
